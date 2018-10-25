@@ -1,2 +1,7 @@
-# html5_server_sent_events
-A demo server-client program implementation for HTML5 server sent events
+# About
+A simple demo to user server sent events
+
+## Steps to run
+1. Run `npm installl`
+2. Run `npm run serve-dev`
+3. Launch `http://localhost:3001`in browser
